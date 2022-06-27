@@ -13,10 +13,6 @@ note: a transaction is out of sequence if its book date is earlier than any prec
 3. Construct a new transaction list where the out-of-sequence transactions are corrected.
 
 
-
-
-
-
 ## Getting Started
 
 ### Dependencies
@@ -33,17 +29,11 @@ note: a transaction is out of sequence if its book date is earlier than any prec
 
 * How to run the program
 * Step-by-step bullets
-```
-code blocks for commands
+```sh
+python app.py
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
+Derrick Kearney
