@@ -28,7 +28,7 @@ note: a transaction is out of sequence if its book date is earlier than any prec
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+#### Run:
 ```sh
 python app.py
 ```
