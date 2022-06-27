@@ -17,17 +17,20 @@ note: a transaction is out of sequence if its book date is earlier than any prec
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- Python 3
 
 ### Installing
+- Move to your target directory, in terminal or via the command prompt.
+- Download repo
+```sh
+git clone git@github.com:diek/parsing_problem.git
+```
+- Move into parsing_problem/src
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
+- How to run the program
 #### Run:
 ```sh
 python app.py
